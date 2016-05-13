@@ -1,4 +1,4 @@
-/#import "XYZPerson.h"
+#import "XYZPerson.h"
 
 @implementation XYZPerson
 
